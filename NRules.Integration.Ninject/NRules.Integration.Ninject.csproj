@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Alfonso Vargas</Authors>
+    <Company>Alfonso Vargas</Company>
+    <Description>Integration support for Ninject in to NRules.</Description>
+    <PackageTags>NRules Ninject Integration</PackageTags>
+    <PackageLicenseUrl>https://github.com/alfonsovgs/NRules.Integration.Ninject/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/alfonsovgs/NRules.Integration.Ninject</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alfonsovgs/NRules.Integration.Ninject</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
